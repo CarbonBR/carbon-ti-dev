@@ -15,22 +15,6 @@ sudo apt full-upgrade
 ```
 
 02 - Install Dependencies:
-* git
-* curl
-* tk-dev
-* xz-utils
-* libffi-dev
-* libssl-dev
-* libbz2-dev
-* zlib1g-dev
-* libxml2-dev
-* liblzma-dev
-* libsqlite3-dev
-* libxmlsec1-dev
-* libreadline-dev
-* build-essential
-* libncursesw5-dev
-
 ```
 sudo apt install git;
 sudo apt install curl;
