@@ -76,18 +76,19 @@ echo 'eval "$(pyenv init - bash)"' >> ~/.profile
 ```
 05 - Restart the Linux terminal.
 
+06 - Install python:
 ```
 pyenv install 3.12.6
 ```
 ## postgresql
-06 - Install postgresql
+07 - Install postgresql
 
 ```
 sudo apt install -y postgresql-common;
 sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh;
 sudo apt install postgresql-16-postgis-3 postgresql-16
 ```
-07 - Config Postgresql:
+08 - Config Postgresql:
 ```
 sudo su postgres;
 psql;
@@ -100,10 +101,13 @@ psql;
 
 ## npm
 
-08 - Install npm:
+09 - Install npm:
 ```
 sudo apt install npm
 ```
+
+10 - Start project.
+
 ## Project commands
 
 ```
