@@ -2,7 +2,7 @@
 
 <sup>Please follow the instructions below.</sup>
 
-## apt:
+## apt
 
 00 - Updates a list of packages: 
 ```
@@ -33,7 +33,7 @@ sudo apt install build-essential;
 sudo apt install libncursesw5-dev
 ```
 
-## curl:
+## curl
 
 03 - Install pyenv for environment variables:
 ```
